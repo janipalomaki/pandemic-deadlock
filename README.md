@@ -3,17 +3,15 @@
 This repository is created for the Unity game source code in the Game Development Project course. 
 External assets are not included in this repository because of size limitations. All the assets used in this project can be found here:
 
+
 Environments
-Free Island Collection
-https://assetstore.unity.com/packages/3d/environments/landscapes/free-island-collection-104753
+<a href="https://assetstore.unity.com/packages/3d/environments/landscapes/free-island-collection-104753">Free Island Collection</a>
 
 Starter Assets
-First Person Character Controller
-https://assetstore.unity.com/packages/essentials/starter-assets-first-person-character-controller-urp-196525
+<a href="https://assetstore.unity.com/packages/essentials/starter-assets-first-person-character-controller-urp-196525">First Person Character Controller</a>
 
 House 1
-3D Warehouse
-https://assetstore.unity.com/packages/3d/environments/cabin-environment-98014
+<a href="https://assetstore.unity.com/packages/3d/environments/cabin-environment-98014">3D Warehouse</a>
 
 House 2
 https://assetstore.unity.com/packages/3d/environments/pier-house-2-wood-house-170921
