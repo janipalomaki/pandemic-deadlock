@@ -1,7 +1,6 @@
 # Pandemic Deadlock
 
 This repository contains the Unity game source code developed for the Game Development Project course. 
-
 External assets are not included in this repository due to size limitations. All the assets used in this project can be found below:
 
 ## 3D Warehouse
@@ -30,3 +29,5 @@ External assets are not included in this repository due to size limitations. All
 
 ## Logos
 - [Zombie Head](https://www.vecteezy.com/vector-art/5131277-scary-zombie-head-vector-illustration)
+
+# Game can be tested here: [Unity - Pandemic Deadlock](https://play.unity.com/mg/other/pandemic-deadlock-1)
