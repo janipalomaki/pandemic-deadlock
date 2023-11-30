@@ -15,7 +15,7 @@ External assets are not included in this repository due to size limitations. All
 - [Pier House](https://assetstore.unity.com/packages/3d/environments/pier-house-2-wood-house-170921)
 - [Free Island Collection](https://assetstore.unity.com/packages/3d/environments/landscapes/free-island-collection-104753)
 - [Zombie](https://assetstore.unity.com/packages/3d/characters/humanoids/zombie-30232)
-- [Survival kit](https://assetstore.unity.com/packages/templates/packs/realistic-fps-controller-free-223479)
+- [Survival kit](https://assetstore.unity.com/packages/3d/props/tools/survival-game-tools-139872)
 
 ## Unity Asset Store (Sounds)
 - [Ambience](https://assetstore.unity.com/packages/audio/ambient/haunted-forest-free-horror-ambience-262289)
