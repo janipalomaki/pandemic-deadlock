@@ -31,3 +31,5 @@ External assets are not included in this repository due to size limitations. All
 - [Zombie Head](https://www.vecteezy.com/vector-art/5131277-scary-zombie-head-vector-illustration)
 
 ### Game can be tested here: [Unity - Pandemic Deadlock](https://play.unity.com/mg/other/pandemic-deadlock-1)
+
+### Game trailer can be watched here: [YouTube - Pandemic Deadlock](https://www.youtube.com/watch?v=OqUbGqgkVMU)
